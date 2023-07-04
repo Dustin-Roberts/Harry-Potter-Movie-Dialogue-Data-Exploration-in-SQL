@@ -10,3 +10,6 @@ For this project, I found a dataset containing all the moive dialogue for all 8 
 * Do characters have a favorite spell?
 
 I have written SQL queries to answer all of those questions, using JOIN, CROSS JOIN, GROUP BY, ORDER BY, WHILE, and WHERE
+
+Dataset can be found at Maven Datasets: https://maven-datasets.s3.amazonaws.com/Harry+Potter/Harry_Potter_Movies.zip
+I have also included the .csv files in this repo
